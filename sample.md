@@ -17,9 +17,15 @@
 2. 手順その2
 3. 手順その3
 
-## リンク
-[Google](https://www.google.com)
+# TODO
 
+- [ ] メール返信
+- [ ] 資料作成
+- [x] 会議参加
+
+## リンク
+[Google](https://www.google.com)\
+[雀魂](https://chatgpt.com/)
 ## 画像
 ![代替テキスト](https://via.placeholder.com/150)
 
